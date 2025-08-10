@@ -20,7 +20,7 @@
 </div> <!-- closed -->
 
 ## About me
-- 🎓 **CS Specialist + Statistics Major at University Of Toronto**, currently starting **Year 2**.
+- 🎓 **Computer Science & Statistics at University Of Toronto**, currently starting **Year 2**.
 - 💼 Current position: **AI Agent Developer Intern**.
 - 💡 Interests: **Machine Learning**, **Systems Programming**, **Backend Development**.
 - Currently learning: **PyTorch**, **scikit-learn**, **Go**, **Assembly**, **C++**.
@@ -52,11 +52,10 @@
 ---
 
 ## GitHub stats
-<div align="center">
+| ![Stats](https://github-readme-stats.vercel.app/api?username=jackymn25&show_icons=true&theme=default&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackymn25&layout=compact&theme=default&hide_border=true) | ![Streak](https://streak-stats.demolab.com?user=jackymn25&theme=default&hide_border=true) |
+|---|---|---|
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jackymn25&show_icons=true&theme=dark" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackymn25&layout=compact&theme=dark" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackymn25&theme=dark" height="150" />
+
 
 </div>
 
